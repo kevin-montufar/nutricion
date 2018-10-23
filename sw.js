@@ -14,7 +14,7 @@ const CACHE_NAME = 'v1_cache_nutricion_dietetica',
     './vendor/bootstrap/js/bootstrap.bundle.js',
     './vendor/jquery-easing/jquery.easing.min.js',
     './vendor/magnific-popup/jquery.magnific-popup.min.js',
-    './creative.js',
+    './js/creative.js',
     './index.js',
     './img/escudo-unimar-200.png'
   ]
