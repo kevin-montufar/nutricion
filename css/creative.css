@@ -65,7 +65,7 @@ img::-moz-selection {
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #3241b2b4;
+  background-color: rgba(50, 65, 178, 0.706);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -101,7 +101,7 @@ img::-moz-selection {
   @media (min-width: 992px) {
     #mainNav {
       border-color: transparent;
-      background-color: #3241b2b4; }
+      background-color: rgba(50, 65, 178, 0.706); }
       #mainNav .navbar-brand {
         color: rgba(255, 255, 255, 0.7); }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -116,7 +116,7 @@ img::-moz-selection {
           color: #fff; }
       #mainNav.navbar-shrink {
         border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-        background-color: #3241b2b4; }
+        background-color: rgba(50, 65, 178, 0.706); }
         #mainNav.navbar-shrink .navbar-brand {
           color: #fff; }
           #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
@@ -294,7 +294,7 @@ header.masthead {
   .condiciones-modal .close-modal {
     position: absolute;
     top: 25px;
-    right: 25px;
+    right: 0px;
     width: 75px;
     height: 75px;
     cursor: pointer;
@@ -305,7 +305,7 @@ header.masthead {
       /* Safari and Chrome */
       z-index: 1051;
       width: 1px;
-      height: 75px;
+      height: 25px;
       margin-left: 35px;
       /* IE 9 */
       -webkit-transform: rotate(45deg);
@@ -316,7 +316,7 @@ header.masthead {
         /* Safari and Chrome */
         z-index: 1052;
         width: 1px;
-        height: 75px;
+        height: 25px;
         /* IE 9 */
         -webkit-transform: rotate(90deg);
         -ms-transform: rotate(90deg);
@@ -354,7 +354,7 @@ ul.social-buttons {
     color: white;
     border-radius: 100%;
     outline: none;
-    background-color: #3241b2b4; }
+    background-color: rgba(50, 65, 178, 0.706); }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
       background-color: #FFF176;
       color: #3863ce; }
