@@ -89,7 +89,7 @@
   sr.reveal('.sr-left', {
     distance: '50px',
     origin: 'left',
-    interval: 100
+    interval: 30000
   });
 
   sr.reveal('.sr-contact', {
