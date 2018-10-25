@@ -16,7 +16,7 @@ const CACHE_NAME = 'v1_cache_nutricion_dietetica',
     './vendor/magnific-popup/jquery.magnific-popup.min.js',
     './js/creative.js',
     './index.js',
-    './img/escudo-unimar-200.png'
+    './img/escudo-unimar-200.png' 
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
